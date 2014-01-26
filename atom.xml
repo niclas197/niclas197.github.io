@@ -4,7 +4,7 @@
   <title><![CDATA[Niclas Stock]]></title>
   <link href="http://www.niclasstock.de/atom.xml" rel="self"/>
   <link href="http://www.niclasstock.de/"/>
-  <updated>2014-01-26T13:41:52+01:00</updated>
+  <updated>2014-01-26T14:16:26+01:00</updated>
   <id>http://www.niclasstock.de/</id>
   <author>
     <name><![CDATA[Niclas Stock]]></name>
@@ -14,24 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://www.niclasstock.de/blog/2014/01/26/test/"/>
-    <updated>2014-01-26T10:15:02+01:00</updated>
-    <id>http://www.niclasstock.de/blog/2014/01/26/test</id>
-    <content type="html"><![CDATA[<p>&ndash;
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+    <title type="html"><![CDATA[Vorlage für juristische Hausarbeiten mit LaTeX]]></title>
+    <link href="http://www.niclasstock.de/blog/2014/01/26/jura-hausarbeit/"/>
+    <updated>2014-01-26T13:15:02+01:00</updated>
+    <id>http://www.niclasstock.de/blog/2014/01/26/jura-hausarbeit</id>
+    <content type="html"><![CDATA[<p>In diesem Blogpost will ich mein kleines &ldquo;Projekt&rdquo;, eine <a href="http://github.com/niclas197/jura-hausarbeit-pdflatex">Vorlage für juristische Hausarbeiten mit LaTeX</a>, vorstellen und erläutern.</p>
 
-<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. <!--more--> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<p>Ich benutze diese Vorlage nun schon seit dem zweiten Semester und habe ca. fünf Arbeiten damit geschrieben.
+Ziele sind:</p>
 
-<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+<p>&mdash; einfache Bedienung (weitesgehende Freiheit von LaTeX-Befehlen)<br/>
+&mdash; automatisches Inhaltsverzeichnis<br/>
+&mdash; automatisches, einheitliches Literaturverzeichnis und Fußnoten mit Unterstützung für Kommentare, Monografien, Artikel, Webseiten usw.<br/>
+&mdash; korrekte Abbildung der juristischen Gliederungsebenen<br/>
+&mdash; Einhaltung der formalen und inhaltlichen Anforderungen der <a href="http://www.jura.uni-hannover.de/fileadmin/fakultaet/Klausurenklinik/Leitlinien_zur_Erstellung_von_Hausarbeiten_gesamt.pdf">Leitlinen zur Erstellung von Hausarbeiten der Juristischen Fakultät der Leibniz Universität Hannover</a><br/>
+&mdash; Korrekter Schritsatz und allgemeine Ansehnlichkeit</p>
 
-<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+<p> <!--more--></p>
 
-<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
+<p>Die Vorlage baut in Teilen auf der Vorlage für <a href="http://www.peterfelixschuster.de/tex.htm">juristische Hausarbeiten v0.06 von Peter Felix Schuster</a> auf und ergänzt diese in vielen Punkten.</p>
 
-<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
-
-<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.</p>
+<p>&hellip;.. hier folgt noch Text</p>
 ]]></content>
   </entry>
   
