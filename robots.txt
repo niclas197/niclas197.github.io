@@ -1,5 +1,4 @@
-# www.robotstxt.org/
-# http://code.google.com/web/controlcrawlindex/
-
 User-agent: *
-Disallow: /images/
+Disallow: 
+
+Sitemap: http://www.niclasstock.de/sitemap.xml 
