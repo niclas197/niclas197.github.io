@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: /impressum.html
 
 Sitemap: http://www.niclasstock.de/sitemap.xml 
