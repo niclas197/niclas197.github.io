@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jura | Niclas Stock]]></title>
   <link href="http://www.niclasstock.de/blog/categories/jura/atom.xml" rel="self"/>
   <link href="http://www.niclasstock.de/"/>
-  <updated>2014-03-22T12:07:56+01:00</updated>
+  <updated>2014-03-22T12:21:05+01:00</updated>
   <id>http://www.niclasstock.de/</id>
   <author>
     <name><![CDATA[Niclas Stock]]></name>
@@ -18,23 +18,27 @@
     <link href="http://www.niclasstock.de/blog/2014/03/22/word-jura-vorlage/"/>
     <updated>2014-03-22T11:15:02+01:00</updated>
     <id>http://www.niclasstock.de/blog/2014/03/22/word-jura-vorlage</id>
-    <content type="html"><![CDATA[<p>In diesem Blogpost will ich mein kleines &ldquo;Projekt&rdquo;, eine <a href="http://github.com/niclas197/jura-hausarbeit-pdflatex">Vorlage für juristische Hausarbeiten mit LaTeX</a>, vorstellen und erläutern. Mittlerweile hab ich das Ganze etwas auf die <a href="http://fsjura-hannover.de/service/vorlagen-hausarbeit/">Seite der Fachschaft Jura Hannover</a> ausgelagert, für die ich das Ganze geschrieben habe.</p>
-
-<p>Support gibt es im <a href="http://fsjura-hannover.de/forum/vorlagen/">Forum der Fachschaft Jura Hannover.</a></p>
+    <content type="html"><![CDATA[<p>Hier folgt eine kurze Erläuterung meiner Word-Vorlage für juristische Hausarbeiten.</p>
 
 <p> <!--more--></p>
 
-<p>Ich benutze diese Vorlage nun schon seit dem zweiten Semester und habe ca. fünf Arbeiten damit geschrieben.
-Ziele sind:</p>
+<p>Die Vorlage sollte mit Word 2007 aufwärts funktionieren und richtet sich nach den <a href="http://www.jura.uni-hannover.de/fileadmin/fakultaet/Klausurenklinik/Leitlinien_zur_Erstellung_von_Hausarbeiten_gesamt.pdf">Leitlinien für juristische Hausarbeiten der Juristischen Fakultät der Leibniz Uni Hannover.</a></p>
 
-<p>&mdash; einfache Bedienung (weitesgehende Freiheit von LaTeX-Befehlen)<br/>
-&mdash; automatisches Inhaltsverzeichnis<br/>
-&mdash; automatisches, einheitliches Literaturverzeichnis und Fußnoten mit Unterstützung für Kommentare, Monografien, Artikel, Webseiten usw.<br/>
-&mdash; korrekte Abbildung der juristischen Gliederungsebenen<br/>
-&mdash; Einhaltung der formalen und inhaltlichen Anforderungen der <a href="http://www.jura.uni-hannover.de/fileadmin/fakultaet/Klausurenklinik/Leitlinien_zur_Erstellung_von_Hausarbeiten_gesamt.pdf">Leitlinen zur Erstellung von Hausarbeiten der Juristischen Fakultät der Leibniz Universität Hannover</a><br/>
-&mdash; Korrekter Schritsatz und allgemeine Ansehnlichkeit</p>
+<p>Bietet: <br/>
+* Einhaltung der Leitlinen <br/>
+* Juristische Gliederungsebenen mit Formatvorlagen <br/>
+* Automatisches Inhaltsverzeichnis <br/>
+* uvw.</p>
 
-<p>&hellip;.. hier folgt noch Text</p>
+<hr />
+
+<p>Wichtig! Ich habe das Ganze bisher NUR mit Word 2011:mac testen können! Ich wäre um Testberichte sehr dankbar.</p>
+
+<p>Das ganze funktioniert definitiv weder mit LibreOffice, noch mit Pages!</p>
+
+<hr />
+
+<p>Fragen am besten ins Forum! <a href="http://fsjura-hannover.de/forum/vorlagen/">http://fsjura-hannover.de/forum/vorlagen/</a>Notfalls an: <a href="mailto:niclas@fsjura-hannover.de">niclas@fsjura-hannover.de</a>Aktualisierungen gibt es hier: <a href="http://fsjura-hannover.de/service/vorlagen-hausarbeit/">http://fsjura-hannover.de/service/vorlagen-hausarbeit/</a></p>
 ]]></content>
   </entry>
   
