@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jura | Niclas Stock]]></title>
   <link href="http://www.niclasstock.de/blog/categories/jura/atom.xml" rel="self"/>
   <link href="http://www.niclasstock.de/"/>
-  <updated>2014-03-22T12:05:28+01:00</updated>
+  <updated>2014-03-22T12:07:56+01:00</updated>
   <id>http://www.niclasstock.de/</id>
   <author>
     <name><![CDATA[Niclas Stock]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Vorlage für juristische Hausarbeiten mit MS Word]]></title>
-    <link href="http://www.niclasstock.de/blog/2014/03/22/latex-jura-vorlage/"/>
+    <link href="http://www.niclasstock.de/blog/2014/03/22/word-jura-vorlage/"/>
     <updated>2014-03-22T11:15:02+01:00</updated>
-    <id>http://www.niclasstock.de/blog/2014/03/22/latex-jura-vorlage</id>
+    <id>http://www.niclasstock.de/blog/2014/03/22/word-jura-vorlage</id>
     <content type="html"><![CDATA[<p>In diesem Blogpost will ich mein kleines &ldquo;Projekt&rdquo;, eine <a href="http://github.com/niclas197/jura-hausarbeit-pdflatex">Vorlage für juristische Hausarbeiten mit LaTeX</a>, vorstellen und erläutern. Mittlerweile hab ich das Ganze etwas auf die <a href="http://fsjura-hannover.de/service/vorlagen-hausarbeit/">Seite der Fachschaft Jura Hannover</a> ausgelagert, für die ich das Ganze geschrieben habe.</p>
 
 <p>Support gibt es im <a href="http://fsjura-hannover.de/forum/vorlagen/">Forum der Fachschaft Jura Hannover.</a></p>
@@ -40,9 +40,9 @@ Ziele sind:</p>
   
   <entry>
     <title type="html"><![CDATA[Vorlage für juristische Hausarbeiten mit LaTeX]]></title>
-    <link href="http://www.niclasstock.de/blog/2014/03/15/word-jura-vorlage/"/>
+    <link href="http://www.niclasstock.de/blog/2014/03/15/latex-jura-vorlage/"/>
     <updated>2014-03-15T13:15:02+01:00</updated>
-    <id>http://www.niclasstock.de/blog/2014/03/15/word-jura-vorlage</id>
+    <id>http://www.niclasstock.de/blog/2014/03/15/latex-jura-vorlage</id>
     <content type="html"><![CDATA[<p>In diesem Blogpost will ich mein kleines &ldquo;Projekt&rdquo;, eine <a href="http://github.com/niclas197/jura-hausarbeit-pdflatex">Vorlage für juristische Hausarbeiten mit LaTeX</a>, vorstellen und erläutern. Mittlerweile hab ich das Ganze etwas auf die <a href="http://fsjura-hannover.de/service/vorlagen-hausarbeit/">Seite der Fachschaft Jura Hannover</a> ausgelagert, für die ich das Ganze geschrieben habe.</p>
 
 <p>Support gibt es im <a href="http://fsjura-hannover.de/forum/vorlagen/">Forum der Fachschaft Jura Hannover.</a></p>
